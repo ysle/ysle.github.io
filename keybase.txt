@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ysle
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ysle.com
+  * I am ysle (https://keybase.io/ysle) on keybase.
+  * I have a public key ASDqisaWQj_4mNOMbfW8N8A_VGDPhXttNdzqt5vxgEMGIgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ea8ac696423ff898d38c6df5bc37c03f5460cf857b6d35dceab79bf1804306220a",
+      "host": "keybase.io",
+      "kid": "0120ea8ac696423ff898d38c6df5bc37c03f5460cf857b6d35dceab79bf1804306220a",
+      "uid": "2fe51a7a9ab5aa17849c66a8382f1919",
+      "username": "ysle"
+    },
+    "merkle_root": {
+      "ctime": 1610023751,
+      "hash": "0926f9a73d5444531857d75f9f352acc59b591df5b0f361e91954932137aa6d406e7bf01088d26a3c22e7798fcd3d5ebadf7ee8aff47f603354da95e8395c3d9",
+      "hash_meta": "07a991f0b14e23f0fcf5b773280b6bf974a19d87a131b65a44a65d7de0d3fbae",
+      "seqno": 18625607
+    },
+    "service": {
+      "entropy": "dwB0wcQO0NQr1MwNyLHR7bv0",
+      "hostname": "ysle.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1610023778,
+  "expire_in": 504576000,
+  "prev": "2123741d61183103c79d7e3508644a4d21e8206afc046c0417718b361dde9680",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6orGlkI/+JjTjG31vDfAP1Rgz4V7bTXc6reb8YBDBiIKp3BheWxvYWTESpcCH8QgISN0HWEYMQPHnX41CGRKTSHoIGr8BGwEF3GLNh3eloDEIOoWiHK0rk55LPhD2+88lSxtgLDi0iouFV8/4uF3I9mPAgHCo3NpZ8RAu3B4hYpB8Qtio39GSIumUbj3uQi/hjZHEF8ENWLiHXReWF9WpZH6cBWykbRZMctHTTDwMv+Dh/e+XNWWXxgaBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIINDVkxtyorb8CxbdCUNkDoZW5SjjsYO6OW6Tb1VADrlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ysle
+
+==================================================================
